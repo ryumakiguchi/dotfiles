@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = makiguchir@gmail.com
+	name = Ryusei Makiguchi
